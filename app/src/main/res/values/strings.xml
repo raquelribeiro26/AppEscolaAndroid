@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Escola</string>
+    <string name="app_name">School v1.0</string>
+    <string name="strN1">Grade 1</string>
+    <string name="strN2">Grade 2</string>
+    <string name="strCalc">Calculate</string>
+    <string name="strM">Average</string>
+    <string name="strSit">Status</string>
+    <string name="strZero">0</string>
+    <string name="strSitAp">Approved</string>
+    <string name="strSitRc">Retake Test</string>
+    <string name="strSitRp">Diasapproved</string>
+    <string name="app_escola">App School</string>
+    <string name="strMsgAp">Congratulations!</string>
+    <string name="strMsgRc">Study more! It\'s still possible!</string>
+    <string name="strMsgRp">Study more next year!</string>
 </resources>
