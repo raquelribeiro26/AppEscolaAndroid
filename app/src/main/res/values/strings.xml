@@ -8,7 +8,7 @@
     <string name="strZero">0</string>
     <string name="strSitAp">Approved</string>
     <string name="strSitRc">Retake Test</string>
-    <string name="strSitRp">Diasapproved</string>
+    <string name="strSitRp">Disapproved</string>
     <string name="app_escola">App School</string>
     <string name="strMsgAp">Congratulations!</string>
     <string name="strMsgRc">Study more! It\'s still possible!</string>
