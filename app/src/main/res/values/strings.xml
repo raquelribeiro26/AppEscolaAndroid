@@ -13,4 +13,5 @@
     <string name="strMsgAp">Congratulations!</string>
     <string name="strMsgRc">Study more! It\'s still possible!</string>
     <string name="strMsgRp">Study more next year!</string>
+    <string name="msgError">Type a number!</string>
 </resources>
